@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FinalProjectV2</string>
+    <string name="title_activity_item_list">ItemListActivity</string>
+    <string name="db_drop">DROP TABLE IF EXISTS</string>
+
+    <string name="title_movie_list">Movies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="title_activity_add_form">AddFormActivity</string>
+    <string name="title_activity_update_form">UpdateFormActivity</string>
+    <string name="title_activity_favorite_movies">FavoriteMoviesActivity</string>
+
+    <string name="enter_movie_rating">Enter Movie Rating</string>
+    <string name="id">ID</string>
+    <string name="enter_movie_id">Enter Movie ID</string>
+    <string name="enter_movie_name">Enter Movie Name</string>
+    <string name="add_movie">ADD MOVIE</string>
+    <string name="name">Name</string>
+    <string name="enter_movie_description">Enter Movie Description</string>
+    <string name="movieType">movieType</string>
+    <string name="enter_movie_type">Enter Movie Type</string>
+    <string name="enter_image_path">Enter Image Path</string>
+    <string name="did_you_view_this_movie">Did you view this movie?</string>
+    <string name="yes">Yes</string>
+    <string name="rating">Rating</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="remove">Remove</string>
+    <string name="description">Description</string>
+    <string name="add_to_viewed">Add to Viewed</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="deleteConfirmation">Are you sure you want to delete this movie?</string>
+    <string name="update">UPDATE</string>
+
+    <string name="update_movie">UPDATE MOVIE</string>
+    <string name="change_movie_name">Change Movie Name</string>
+    <string name="change_movie_rating">Change Movie Rating</string>
+    <string name="change_movie_description">Change Movie Description</string>
+    <string name="change_movie_type">Change Movie Type</string>
+    <string name="change_image_path">Change Image Path</string>
+    <string name="add_to_viewed_movies">Add to Viewed Movies</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
